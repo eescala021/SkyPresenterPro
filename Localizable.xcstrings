@@ -1,0 +1,714 @@
+{
+  "sourceLanguage" : "es",
+  "strings" : {
+    "Guardar" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Save" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Salvar" } }
+      }
+    },
+    "Cancelar" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Cancel" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Cancelar" } }
+      }
+    },
+    "Cerrar" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Close" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Fechar" } }
+      }
+    },
+    "Eliminar" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Delete" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Excluir" } }
+      }
+    },
+    "Editar" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Edit" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Editar" } }
+      }
+    },
+    "Buscar" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Search" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Buscar" } }
+      }
+    },
+    "Proyectar" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Project" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Projetar" } }
+      }
+    },
+    "Importar" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Import" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Importar" } }
+      }
+    },
+    "Biblioteca" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Library" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Biblioteca" } }
+      }
+    },
+    "Configuración" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Settings" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Configurações" } }
+      }
+    },
+    "Anterior" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Previous" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Anterior" } }
+      }
+    },
+    "Siguiente" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Next" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Próximo" } }
+      }
+    },
+    "Nueva canción" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "New song" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Nova canção" } }
+      }
+    },
+    "ALABANZAS" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "WORSHIP" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "LOUVOR" } }
+      }
+    },
+    "Buscar alabanza..." : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Search song..." } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Buscar louvor..." } }
+      }
+    },
+    "Selecciona una alabanza" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Select a song" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Selecione um louvor" } }
+      }
+    },
+    "secciones" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "sections" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "seções" } }
+      }
+    },
+    "Añadir al servicio" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Add to service" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Adicionar ao culto" } }
+      }
+    },
+    "Servicio" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Service" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Culto" } }
+      }
+    },
+    "Arrastra canciones aquí o usa el botón Añadir." : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Drag songs here or use the Add button." } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Arraste canções aqui ou use o botão Adicionar." } }
+      }
+    },
+    "Limpiar" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Clear" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Limpar" } }
+      }
+    },
+    "Diapositivas" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Slides" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Slides" } }
+      }
+    },
+    "Duplicar" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Duplicate" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Duplicar" } }
+      }
+    },
+    "Guardar y cerrar" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Save and close" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Salvar e fechar" } }
+      }
+    },
+    "Editor" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Editor" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Editor" } }
+      }
+    },
+    "Nueva" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "New" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Nova" } }
+      }
+    },
+    "Tono" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Key" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Tom" } }
+      }
+    },
+    "METADATOS" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "METADATA" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "METADADOS" } }
+      }
+    },
+    "Letra corrida" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Full lyrics" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Letra corrida" } }
+      }
+    },
+    "INSPECTOR" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "INSPECTOR" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "INSPETOR" } }
+      }
+    },
+    "Diapositiva seleccionada" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Selected slide" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Slide selecionado" } }
+      }
+    },
+    "Acciones" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Actions" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Ações" } }
+      }
+    },
+    "Duplicar diapositiva" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Duplicate slide" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Duplicar slide" } }
+      }
+    },
+    "Eliminar diapositiva" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Delete slide" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Excluir slide" } }
+      }
+    },
+    "Nueva diapositiva" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "New slide" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Novo slide" } }
+      }
+    },
+    "Tema:" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Theme:" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Tema:" } }
+      }
+    },
+    "Global" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Global" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Global" } }
+      }
+    },
+    "Imagen" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Image" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Imagem" } }
+      }
+    },
+    "Imágenes" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Images" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Imagens" } }
+      }
+    },
+    "Video" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Video" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Vídeo" } }
+      }
+    },
+    "Videos" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Videos" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Vídeos" } }
+      }
+    },
+    "Libros" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Books" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Livros" } }
+      }
+    },
+    "Capítulos" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Chapters" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Capítulos" } }
+      }
+    },
+    "Versículos" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Verses" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Versículos" } }
+      }
+    },
+    "versículos" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "verses" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "versículos" } }
+      }
+    },
+    "Favoritos" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Favorites" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Favoritos" } }
+      }
+    },
+    "Capítulo actual" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Current chapter" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Capítulo atual" } }
+      }
+    },
+    "EN VIVO" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "LIVE" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "AO VIVO" } }
+      }
+    },
+    "ACTIVO" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "ACTIVE" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "ATIVO" } }
+      }
+    },
+    "LISTO" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "READY" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "PRONTO" } }
+      }
+    },
+    "Quitar favorito" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Remove favorite" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Remover favorito" } }
+      }
+    },
+    "Guardar favorito" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Save favorite" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Salvar favorito" } }
+      }
+    },
+    "Ir" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Go" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Ir" } }
+      }
+    },
+    "Ir a capítulo" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Go to chapter" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Ir ao capítulo" } }
+      }
+    },
+    "Doble clic proyecta" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Double-click to project" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Duplo clique projeta" } }
+      }
+    },
+    "Biblioteca de Biblias" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Bible Library" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Biblioteca de Bíblias" } }
+      }
+    },
+    "Importar Biblia Zefania XML" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Import Zefania XML Bible" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Importar Bíblia Zefania XML" } }
+      }
+    },
+    "Nombre" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Name" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Nome" } }
+      }
+    },
+    "Alias" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Alias" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Alias" } }
+      }
+    },
+    "Idioma" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Language" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Idioma" } }
+      }
+    },
+    "Importar XML" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Import XML" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Importar XML" } }
+      }
+    },
+    "Importar archivos" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Import files" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Importar arquivos" } }
+      }
+    },
+    "En directo" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Live" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Ao vivo" } }
+      }
+    },
+    "Sin selección" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "No selection" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Sem seleção" } }
+      }
+    },
+    "PROYECTANDO" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "PROJECTING" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "PROJETANDO" } }
+      }
+    },
+    "Versículo detectado" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Detected verse" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Versículo detectado" } }
+      }
+    },
+    "Proyectar versículo" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Project verse" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Projetar versículo" } }
+      }
+    },
+    "Selecciona una presentación" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Select a presentation" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Selecione uma apresentação" } }
+      }
+    },
+    "Proyectando" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Projecting" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Projetando" } }
+      }
+    },
+    "En espera" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Standby" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Em espera" } }
+      }
+    },
+    "Centro de Configuración" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Settings Center" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Central de Configurações" } }
+      }
+    },
+    "Nombre de la iglesia" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Church name" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Nome da igreja" } }
+      }
+    },
+    "Acciones rápidas" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Quick actions" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Ações rápidas" } }
+      }
+    },
+    "Pantalla externa" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "External display" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Tela externa" } }
+      }
+    },
+    "Conectada" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Connected" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Conectada" } }
+      }
+    },
+    "No detectada" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Not detected" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Não detectada" } }
+      }
+    },
+    "Crear respaldo" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Create backup" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Criar backup" } }
+      }
+    },
+    "Crear anuncio" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Create announcement" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Criar anúncio" } }
+      }
+    },
+    "Duración" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Duration" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Duração" } }
+      }
+    },
+    "Copiar acceso completo" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Copy full access" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Copiar acesso completo" } }
+      }
+    },
+    "Cerrar sesión" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Log out" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Encerrar sessão" } }
+      }
+    },
+    "Cerrar sesiones" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Close sessions" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Encerrar sessões" } }
+      }
+    },
+    "Copiar todo" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Copy all" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Copiar tudo" } }
+      }
+    },
+    "Ajustes" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Settings" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Ajustes" } }
+      }
+    },
+    "Ayuda" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Help" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Ajuda" } }
+      }
+    },
+    "Control" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Control" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Controle" } }
+      }
+    },
+    "F8 Logo" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "F8 Logo" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "F8 Logo" } }
+      }
+    },
+    "F9 Fondo" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "F9 Background" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "F9 Fundo" } }
+      }
+    },
+    "F10 Negro" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "F10 Blackout" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "F10 Escuridão" } }
+      }
+    },
+    "SIGUIENTE" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "NEXT" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "PRÓXIMO" } }
+      }
+    },
+    "— Fin —" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "— End —" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "— Fim —" } }
+      }
+    },
+    "Consola de Control" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Control Console" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Console de Controle" } }
+      }
+    },
+    "Español" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Spanish" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Espanhol" } }
+      }
+    },
+    "Inglés" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "English" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Inglês" } }
+      }
+    },
+    "Portugués" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Portuguese" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Português" } }
+      }
+    },
+    "Cargadas" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Loaded" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Carregadas" } }
+      }
+    },
+    "Nombre del dispositivo" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Device name" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Nome do dispositivo" } }
+      }
+    },
+    "Sin conexiones" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "No connections" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Sem conexões" } }
+      }
+    },
+    "Sin alertas" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "No alerts" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Sem alertas" } }
+      }
+    },
+    "Tu Iglesia" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Your Church" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Sua Igreja" } }
+      }
+    },
+    "Temas y vista" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Themes & view" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Temas e visualização" } }
+      }
+    },
+    "Vista rápida" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Quick preview" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Visualização rápida" } }
+      }
+    },
+    "Portada" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Title slide" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Capa" } }
+      }
+    },
+    "Final en blanco" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Blank ending" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Final em branco" } }
+      }
+    },
+    "Omitir" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Skip" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Omitir" } }
+      }
+    },
+    "Sobrescribir" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Overwrite" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Sobrescrever" } }
+      }
+    },
+    "Duplicar" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Duplicate" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Duplicar" } }
+      }
+    },
+    "Configuración visual" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Visual settings" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Configuração visual" } }
+      }
+    },
+    "Mostrar versión en el proyector" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Show version in projector" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Mostrar versão no projetor" } }
+      }
+    },
+    "Mostrar historial de diapositivas" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Show slide history" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Mostrar histórico de slides" } }
+      }
+    },
+    "Mostrar biblioteca lateral" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Show side library" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Mostrar biblioteca lateral" } }
+      }
+    },
+    "Mostrar tira de diapositivas" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Show filmstrip" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Mostrar tira de slides" } }
+      }
+    },
+    "Mostrar tira de páginas" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Show page strip" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Mostrar tira de páginas" } }
+      }
+    },
+    "MODULO DE PRESENTACIONES" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "PRESENTATIONS MODULE" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "MÓDULO DE APRESENTAÇÕES" } }
+      }
+    },
+    "Página" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Page" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Página" } }
+      }
+    },
+    "páginas" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "pages" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "páginas" } }
+      }
+    },
+    "Selecciona un versículo o usa doble clic para enviarlo al proyector." : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Select a verse or double-click to send it to the projector." } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Selecione um versículo ou clique duas vezes para enviar ao projetor." } }
+      }
+    },
+    "Accesos rápidos para predicación y lectura continua." : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Quick access for preaching and continuous reading." } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Acessos rápidos para pregação e leitura contínua." } }
+      }
+    }
+  },
+  "version" : "1.0"
+}

@@ -1,0 +1,38 @@
+{
+  "releaseChannels": [
+    {
+      "name": "Debug",
+      "audience": "Desarrollo interno",
+      "detail": "Compilaciones rápidas para integración, ajuste de UX y validación técnica.",
+      "accent": "orange"
+    },
+    {
+      "name": "Release",
+      "audience": "Operación / distribución",
+      "detail": "Build estable para consola en uso real y entrega a operadores.",
+      "accent": "green"
+    }
+  ],
+  "versionHistory": [
+    {
+      "version": "CURRENT",
+      "codename": "Actual",
+      "notes": [
+        "Pane Acerca de integrado al centro de configuración.",
+        "Web app remota ajustada para standby, presentador y letras.",
+        "Ajustes preparados para auditoría y distribución."
+      ],
+      "accent": "blue"
+    },
+    {
+      "version": "v1.0 (base)",
+      "codename": "Fundación",
+      "notes": [
+        "Consola principal inicial de SkyPresenterPro.",
+        "Módulos base de Biblia, Alabanzas, Presentaciones y Proyección.",
+        "Infraestructura inicial de remoto y settings."
+      ],
+      "accent": "orange"
+    }
+  ]
+}

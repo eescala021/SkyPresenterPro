@@ -1,0 +1,31 @@
+name: Package Release
+
+on:
+  workflow_dispatch:
+  push:
+    tags:
+      - "v*"
+
+jobs:
+  package:
+    runs-on: macos-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Select Xcode
+        run: sudo xcode-select -s /Applications/Xcode.app
+
+      - name: Package archive
+        env:
+          EXPORT_OPTIONS_PLIST: ${{ github.workspace }}/ExportOptions.plist
+        run: |
+          chmod +x scripts/package_release.sh
+          scripts/package_release.sh
+
+      - name: Upload archive artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: SkyPresenterPro-release
+          path: build/release
